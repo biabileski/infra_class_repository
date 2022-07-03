@@ -14,5 +14,3 @@
 ## Creating a branch
 
 ˋgit branch nome_da_branchˋ
-
-
