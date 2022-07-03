@@ -1,16 +1,18 @@
-#Tutorial Git
+# Tutorial Git
 
 ## Connecting:
 
-ˋgit config --global user.name "Fulano de Tal"ˋ
-ˋgit config --global user.email fulanodetal@exemplo.brˋ
+* git config --global user.name "Fulano de Tal"
+* git config --global user.email fulanodetal@exemplo.br
 
 
 ## Cloning a repository
 
-ˋgit clone linkˋ
+* git clone link
 
 
 ## Creating a branch
 
-ˋgit branch nome_da_branchˋ
+* git branch nome_da_branch
+
+
